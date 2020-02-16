@@ -52,3 +52,4 @@ checkRecognise=y-x;
 
 % You see that y-x in line 51 shows that MATLAB cannot recognise a
 % difference less than eps
+% Matlab uses mantissa of 52 having least count of e^-16
