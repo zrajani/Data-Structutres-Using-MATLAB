@@ -10,6 +10,12 @@
 % Look at the error variable in the program by adjusting the value of n to
 % make the concept more clear.
 
+%Initialize Screen
+
+clc;
+clear all;
+close all;
+
 n=5;  % Number of terms
 a=0.1; % Value of exponential raised to
 currentTrem= 1.0; % Starting Value in the series if considered just one term
