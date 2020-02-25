@@ -1,3 +1,5 @@
+% Author: Zain Rajani
+
 % Maclaurin Series for ecp(0.1)
 
 % Initialisation
