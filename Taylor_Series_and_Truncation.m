@@ -1,10 +1,6 @@
 % Maclaurin Series for ecp(0.1)
 
-% Initialisation
 
-clear all;
-close all;
-clc;
 
 % The code understand Taylor Series and Truncation Error.
 
