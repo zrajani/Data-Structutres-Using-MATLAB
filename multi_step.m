@@ -2,9 +2,9 @@
 
 %% True Value Computation
 
-a=0.1;
-h=0.1;
-N=a/h;
+a=0.1;     % Value of e^
+h=0.1;     % Step Size
+N=a/h;     % No of Iteration
 
 trueVal=exp(a);
 
