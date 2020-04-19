@@ -1,5 +1,7 @@
 % Calculate e^(0.1) using multiple step of Taylor Series Expansion
 
+% Author: Zain Rajani
+
 %% True Value Computation
 
 a=0.1;     % Value of e^
