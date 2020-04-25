@@ -2,7 +2,7 @@
 
 % Maclaurin Series for ecp(0.1)
 
-% Initialisation
+% Screen Initialise
 
 clear all;
 close all;
