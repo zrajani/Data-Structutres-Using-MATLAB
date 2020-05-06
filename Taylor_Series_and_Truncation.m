@@ -1,6 +1,6 @@
 % Author: Zain Rajani
 
-% Maclaurin Series for ecp(0.1)
+% Maclaurin Series for exp(0.1)
 
 % Screen Initialise
 
