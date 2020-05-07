@@ -6,3 +6,4 @@ This repository has various Data structures that can be used in daily computatio
 The repository includes:
 1. Taylor Series Expansion to estimate expoenential value
 2. Truncation Error
+3. Iteration Methods 
