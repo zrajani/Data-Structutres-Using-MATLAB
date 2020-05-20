@@ -14,6 +14,8 @@ trueVal=exp(a);
 
 expVal=1;
 
+% Evaluation Loop begins here 
+
 for i=1:N
     expVal=expVal*(1+h);
 end
